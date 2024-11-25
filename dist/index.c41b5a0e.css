@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Inter;
+  src: url("CircularStd-Black.61651cfa.woff2") format("woff2");
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("CircularStd-Bold.e429c83b.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("CircularStd-Book.c2e79c7f.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("CircularStd-Medium.5e2ed706.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+* {
+  font-family: Inter;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
